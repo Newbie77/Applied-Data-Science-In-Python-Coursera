@@ -1,0 +1,15 @@
+[submodule "Applied-Plotting-Charting-Data-Representation-in-Python"]
+	path = Applied-Plotting-Charting-Data-Representation-in-Python
+	url = https://github.com/jdonovanCS/Applied-Plotting-Charting-Data-Representation-in-Python.git
+[submodule "Introduction-To-Data-Science-In-Python"]
+	path = Introduction-To-Data-Science-In-Python
+	url = https://github.com/jdonovanCS/Introduction-To-Data-Science-In-Python.git
+[submodule "Applied-Machine-Learning-In-Python"]
+	path = Applied-Machine-Learning-In-Python
+	url = https://github.com/jdonovanCS/Applied-Machine-Learning-In-Python.git
+[submodule "Applied-Text-Mining-In-Python"]
+	path = Applied-Text-Mining-In-Python
+	url = https://github.com/jdonovanCS/Applied-Text-Mining-In-Python.git
+[submodule "Applied-Social-Network-Analysis-In-Python"]
+	path = Applied-Social-Network-Analysis-In-Python
+	url = https://github.com/jdonovanCS/Applied-Social-Network-Analysis-In-Python.git
